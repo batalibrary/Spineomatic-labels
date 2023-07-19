@@ -11,5 +11,5 @@ Bata Library+SPECIAL=SpC
 Bata Library+Wellness=WELL
 Durham Library+Folio=FOLIO
 Durham Library+Reference=REF
-Durham Library+Wellness=TEST2
+Durham Library+Wellness=WELL
 

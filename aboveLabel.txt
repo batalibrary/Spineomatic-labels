@@ -1,5 +1,4 @@
 Bata Library+Atlases, Oversize=ATLAS;FOLIO
-Bata Library+Atlases, shelved=ATLAS
 Bata Library+Curriculum=CURRIC
 Bata Library+Data Visualization Lab=DV LAB
 Bata Library+Folio=FOLIO

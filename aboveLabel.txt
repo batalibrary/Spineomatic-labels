@@ -13,4 +13,5 @@ Bata Library+Curriculum Folio=CURRIC;FOLIO
 Durham Library+Folio=FOLIO
 Durham Library+Reference=REF
 Durham Library+Wellness=WELL
+Bata Library+Atlases, Shelved=ATLAS
 

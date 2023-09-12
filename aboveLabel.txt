@@ -1,7 +1,9 @@
 Bata Library+Atlases, Oversize=ATLAS;FOLIO
+Bata Library+Atlases, Shelved=ATLAS
 Bata Library+Curriculum=CURRIC
 Bata Library+Data Visualization Lab=DV LAB
 Bata Library+Folio=FOLIO
+Bata Library+Government Publications Reference (LC)=GOV REF
 Bata Library+Quick Reference=QUICKREF
 Bata Library+Reference=REF
 Bata Library+Special Collections, Trent Collection=TRENT;COLL
@@ -12,4 +14,3 @@ Bata Library+Curriculum Folio=CURRIC;FOLIO
 Durham Library+Folio=FOLIO
 Durham Library+Reference=REF
 Durham Library+Wellness=WELL
-Bata Library+Atlases, Shelved=ATLAS

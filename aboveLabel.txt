@@ -11,6 +11,7 @@ Bata Library+SPECIAL_TC=TRENT;COLL
 Bata Library+SPECIAL=SpC
 Bata Library+Wellness=WELL
 Bata Library+Curriculum Folio=CURRIC;FOLIO
+Bata Library+Archives, Reference=ARCH;REF
 Durham Library+Folio=FOLIO
 Durham Library+Reference=REF
 Durham Library+Wellness=WELL

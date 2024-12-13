@@ -16,3 +16,4 @@ Durham Library+Folio=FOLIO
 Durham Library+Reference=REF
 Durham Library+Wellness=WELL
 Bata Library+ESL Resources=ESL
+Bata Library+Atlases, Display Cases=ATLAS;CASE

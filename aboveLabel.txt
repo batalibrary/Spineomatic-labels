@@ -7,6 +7,7 @@ Bata Library+Curriculum Oversize (Folio)=CURRIC;OVERSIZE
 Bata Library+Data Visualization Lab=DV LAB
 Bata Library+ESL Resources=ESL
 Bata Library+Government Publications Reference (LC)=GOV REF
+Bata Library+Indigenous Languages Collections=INDGLANG
 Bata Library+Oversize (Folio)=OVERSIZE
 Bata Library+Quick Reference=QUICKREF
 Bata Library+Reference=REF
